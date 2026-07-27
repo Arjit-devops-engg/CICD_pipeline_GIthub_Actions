@@ -165,17 +165,21 @@ Through this project, I gained practical experience in:
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
-**Arjit Kumar**
+## Arjit Kumar
 
-Aspiring DevOps Engineer
+Aspiring DevOps Engineer passionate about Cloud Computing, DevOps, and Automation.
 
-### Connect with me
+### 🌐 Connect with Me
 
-- GitHub: https://github.com/Arjit-devops-engg
-- LinkedIn: linkedin.com/in/arjitkumar29
+- **GitHub:** https://github.com/Arjit-devops-engg
+- **LinkedIn:** https://www.linkedin.com/in/arjitkumar29/
 
 ---
 
-## ⭐ If you found this project useful, consider giving it a star!
+## ⭐ Support
+
+If you found this project useful, please consider giving it a **⭐ Star** on GitHub.
+
+If you have any suggestions or feedback, feel free to connect with me on LinkedIn.
