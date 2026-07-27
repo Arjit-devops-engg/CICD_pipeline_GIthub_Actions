@@ -165,18 +165,6 @@ Through this project, I gained practical experience in:
 
 ---
 
-## 📸 Workflow Screenshot
-
-> Add a screenshot of your successful GitHub Actions workflow here.
-
-Example:
-
-```
-images/github-actions-success.png
-```
-
----
-
 ## 👨‍💻 Author
 
 **Arjit Kumar**
@@ -186,7 +174,7 @@ Aspiring DevOps Engineer
 ### Connect with me
 
 - GitHub: https://github.com/Arjit-devops-engg
-- LinkedIn: *(Add your LinkedIn profile URL here)*
+- LinkedIn: linkedin.com/in/arjitkumar29
 
 ---
 
